@@ -1,2 +1,0 @@
-# DataPlatform
-DataPlatform
