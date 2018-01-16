@@ -1,0 +1,21 @@
+server:
+  port: 8080
+
+#jd:
+#  sso:
+#    app-home-url:
+#    app-home-domain:
+#    login-url:
+#    exclude-path:
+#    interceptor-path-patterns:
+#  jsf:
+#    registry:
+#      protocol:
+#      index:
+#      id:
+#    annotation:
+#      provider:
+#      consumer:
+#      basepackage:
+
+

@@ -1,0 +1,69 @@
+
+##??? ????
+#jd:
+#  jsf:
+#    registry:
+#      protocol:
+#      index:
+#      id:
+#    consumers:
+#      -
+#        id:
+#        protocol:
+#        interface-id:
+#        alias:
+#        timeout:
+#      -
+#        id:
+#        protocol:
+#        interface-id:
+#        alias:
+#        timeout:
+##??? ??????
+#jd:
+#  jsf:
+#    registry:
+#      protocol:
+#      index:
+#      id:
+#    annotation:
+#      consumer:
+#      basepackage:
+##??? ????
+#jd:
+#  jsf:
+#    registry:
+#      protocol:
+#      index:
+#      id:
+#    providers:
+#      -
+#        id:
+#        alias:
+#        ref:
+#        server:
+#          -
+#            protocol:
+#            id:
+#        interface-id:
+#      -
+#        id:
+#        alias:
+#        ref:
+#        server:
+#          -
+#            protocol:
+#            id:
+#        interface-id:
+##??? ??????
+#jd:
+#  jsf:
+#    registry:
+#      protocol:
+#      index:
+#      id:
+#    annotation:
+#      basepackage:
+#      provider:
+
+

@@ -1,0 +1,1 @@
+include "DataPlatform-common","DataPlatform-domain","DataPlatform-dao","DataPlatform-cache","DataPlatform-service","DataPlatform-rpc","DataPlatform-web","DataPlatform-manager"

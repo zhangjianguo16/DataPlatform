@@ -1,0 +1,12 @@
+
+#jd:
+#  jimdb:
+#    client:
+#      jimUrl:
+#    caches:
+#      -
+#        keyPrefix:
+#        entryTimeout:
+#        valueSerializer:
+
+
